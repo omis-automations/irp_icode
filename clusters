@@ -1,0 +1,408 @@
+[
+    {
+      "id": "2C9F36EC5FE54BADBF4401E0F8",
+      "sysgen_id": "CL-20250614-63D82F",
+      "acronym": "CLUSTER1",
+      "name": "Cluster 1 of B001",
+      "established": "2018-03-24",
+      "region": "R01",
+      "province": "P04",
+      "municipality": "M01",
+      "barangay": "B001",
+      "scale": "large",
+      "datasource": "f2c2",
+      "scanned_form": "cluster_form_2C9F36EC5FE54BADBF4401E0F8.pdf",
+      "created_by": "0CB475759A384255BA0D100F65",
+      "updated_by": null,
+      "validated_by": null,
+      "created_at": "2018-10-22T00:00:00",
+      "updated_at": null,
+      "validated_at": "2019-01-03T00:00:00",
+      "audit_trail": [
+        {
+          "event": "updated",
+          "by": "Admin User",
+          "at": "2024-09-21T15:17:25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "F02DAD6AD311458D9D323111B6",
+          "cluster_id": "2C9F36EC5FE54BADBF4401E0F8",
+          "hd_rsbsa": null,
+          "hd_last_name": "Dela Cruz",
+          "hd_first_name": "Pedro",
+          "hd_middle_name": null,
+          "hd_extension_name": null,
+          "hd_designation": "Manager",
+          "hd_email": "pedro.delacruz51@example.com",
+          "hd_telephone": "(62) 8456071",
+          "hd_mobile": "09883747855",
+          "ct_rsbsa": null,
+          "ct_last_name": "Reyes",
+          "ct_first_name": "Jose",
+          "ct_middle_name": null,
+          "ct_extension_name": null,
+          "ct_designation": "Coordinator",
+          "ct_email": "jose.reyes21@example.com",
+          "ct_telephone": null,
+          "ct_mobile": "09156693744"
+        }
+      ],
+      "assets": [
+        {
+          "id": "87740616BA9E45F19C6B7F9D16",
+          "cluster_id": "2C9F36EC5FE54BADBF4401E0F8",
+          "commodity_code": "HOGS",
+          "prod_area": null,
+          "prod_volume": 13419.85,
+          "processing": true,
+          "trade": false,
+          "retail": false,
+          "manufacturing": false,
+          "transport": true,
+          "warehousing": true,
+          "services": false
+        },
+        {
+          "id": "5E61B7C27DDD49E7B5CDDF1A1F",
+          "cluster_id": "2C9F36EC5FE54BADBF4401E0F8",
+          "commodity_code": "RICE",
+          "prod_area": 1828.82,
+          "prod_volume": 39785.27,
+          "processing": false,
+          "trade": false,
+          "retail": false,
+          "manufacturing": false,
+          "transport": false,
+          "warehousing": false,
+          "services": false
+        }
+      ]
+    },
+    {
+      "id": "E5C07411252D49A9A47B7D4FE5",
+      "sysgen_id": "CL-20250614-84573A",
+      "acronym": "CLUSTER2",
+      "name": "Cluster 2 of B002",
+      "established": "2015-09-02",
+      "region": "R01",
+      "province": "P01",
+      "municipality": "M02",
+      "barangay": "B002",
+      "scale": "medium",
+      "datasource": "f2c2",
+      "scanned_form": null,
+      "created_by": "0CB475759A384255BA0D100F65",
+      "updated_by": "3987A823908D4C499F7ECA8DB8",
+      "validated_by": null,
+      "created_at": "2016-08-25T00:00:00",
+      "updated_at": null,
+      "validated_at": null,
+      "audit_trail": [
+        {
+          "event": "created",
+          "by": "Data Entry",
+          "at": "2024-12-03T15:17:25"
+        },
+        {
+          "event": "created",
+          "by": "Admin User",
+          "at": "2025-03-22T15:17:25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "6BA60E7FC9DD4A49B351A8EED1",
+          "cluster_id": "E5C07411252D49A9A47B7D4FE5",
+          "hd_rsbsa": null,
+          "hd_last_name": "Garcia",
+          "hd_first_name": "Pedro",
+          "hd_middle_name": "A.",
+          "hd_extension_name": null,
+          "hd_designation": "Manager",
+          "hd_email": "pedro.garcia62@example.com",
+          "hd_telephone": "(92) 1827962",
+          "hd_mobile": null,
+          "ct_rsbsa": null,
+          "ct_last_name": "Santos",
+          "ct_first_name": "Jose",
+          "ct_middle_name": "M.",
+          "ct_extension_name": "Jr.",
+          "ct_designation": "Coordinator",
+          "ct_email": "jose.santos75@example.com",
+          "ct_telephone": null,
+          "ct_mobile": "09102541855"
+        }
+      ],
+      "assets": [
+        {
+          "id": "236A4A4169624A7A9F31D8015E",
+          "cluster_id": "E5C07411252D49A9A47B7D4FE5",
+          "commodity_code": "COFFEE",
+          "prod_area": 3486.57,
+          "prod_volume": null,
+          "processing": false,
+          "trade": true,
+          "retail": false,
+          "manufacturing": false,
+          "transport": false,
+          "warehousing": false,
+          "services": false
+        }
+      ]
+    },
+    {
+      "id": "E2AD107E87694FCD9EFCB12784",
+      "sysgen_id": "CL-20250614-B50AA8",
+      "acronym": "CLUSTER3",
+      "name": "Cluster 3 of B003",
+      "established": "2011-12-25",
+      "region": "R03",
+      "province": "P03",
+      "municipality": "M03",
+      "barangay": "B003",
+      "scale": "medium",
+      "datasource": "f2c2",
+      "scanned_form": null,
+      "created_by": "0CB475759A384255BA0D100F65",
+      "updated_by": "5542056C95384A1EA7B74CD321",
+      "validated_by": null,
+      "created_at": "2012-07-10T00:00:00",
+      "updated_at": "2012-08-27T00:00:00",
+      "validated_at": null,
+      "audit_trail": [
+        {
+          "event": "updated",
+          "by": "Admin User",
+          "at": "2024-09-13T15:17:25"
+        },
+        {
+          "event": "validated",
+          "by": "Data Entry",
+          "at": "2024-12-08T15:17:25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "52C437F6AB7E4A98B105FF8134",
+          "cluster_id": "E2AD107E87694FCD9EFCB12784",
+          "hd_rsbsa": null,
+          "hd_last_name": "Reyes",
+          "hd_first_name": "Elena",
+          "hd_middle_name": null,
+          "hd_extension_name": "III",
+          "hd_designation": "Secretary",
+          "hd_email": "elena.reyes8@example.com",
+          "hd_telephone": "(92) 9765717",
+          "hd_mobile": "09736844998",
+          "ct_rsbsa": "RSBSA-22617",
+          "ct_last_name": "Reyes",
+          "ct_first_name": "Pedro",
+          "ct_middle_name": "M.",
+          "ct_extension_name": null,
+          "ct_designation": "President",
+          "ct_email": "pedro.reyes12@example.com",
+          "ct_telephone": "(82) 6702092",
+          "ct_mobile": "09337497180"
+        }
+      ],
+      "assets": [
+        {
+          "id": "ADB8E8616D714EFA8D249B887B",
+          "cluster_id": "E2AD107E87694FCD9EFCB12784",
+          "commodity_code": "RICE",
+          "prod_area": 4811.8,
+          "prod_volume": null,
+          "processing": true,
+          "trade": true,
+          "retail": true,
+          "manufacturing": false,
+          "transport": false,
+          "warehousing": false,
+          "services": false
+        },
+        {
+          "id": "AE0C239D05E641E58B99A69A38",
+          "cluster_id": "E2AD107E87694FCD9EFCB12784",
+          "commodity_code": "COFFEE",
+          "prod_area": 4235.02,
+          "prod_volume": null,
+          "processing": false,
+          "trade": false,
+          "retail": true,
+          "manufacturing": true,
+          "transport": true,
+          "warehousing": false,
+          "services": false
+        }
+      ]
+    },
+    {
+      "id": "EBE3510E51B34FC0BB90A70782",
+      "sysgen_id": "CL-20250614-796A90",
+      "acronym": "CLUSTER4",
+      "name": "Cluster 4 of B001",
+      "established": "2020-06-25",
+      "region": "R03",
+      "province": "P03",
+      "municipality": "M03",
+      "barangay": "B001",
+      "scale": "large",
+      "datasource": null,
+      "scanned_form": "cluster_form_EBE3510E51B34FC0BB90A70782.pdf",
+      "created_by": "0CB475759A384255BA0D100F65",
+      "updated_by": "5542056C95384A1EA7B74CD321",
+      "validated_by": "3987A823908D4C499F7ECA8DB8",
+      "created_at": "2021-03-19T00:00:00",
+      "updated_at": "2021-05-28T00:00:00",
+      "validated_at": "2021-09-17T00:00:00",
+      "audit_trail": [
+        {
+          "event": "created",
+          "by": "Data Entry",
+          "at": "2025-05-04T15:17:25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "6C048772731C467A974E282901",
+          "cluster_id": "EBE3510E51B34FC0BB90A70782",
+          "hd_rsbsa": null,
+          "hd_last_name": "Dela Cruz",
+          "hd_first_name": "Juan",
+          "hd_middle_name": "S.",
+          "hd_extension_name": null,
+          "hd_designation": "President",
+          "hd_email": "juan.delacruz39@example.com",
+          "hd_telephone": null,
+          "hd_mobile": "09294744727",
+          "ct_rsbsa": "RSBSA-94606",
+          "ct_last_name": "Santos",
+          "ct_first_name": "Juan",
+          "ct_middle_name": null,
+          "ct_extension_name": "III",
+          "ct_designation": "Secretary",
+          "ct_email": "juan.santos32@example.com",
+          "ct_telephone": null,
+          "ct_mobile": "09373013294"
+        }
+      ],
+      "assets": [
+        {
+          "id": "5466F5BC545F4061AE84BF5FE2",
+          "cluster_id": "EBE3510E51B34FC0BB90A70782",
+          "commodity_code": "COFFEE",
+          "prod_area": 3166.6,
+          "prod_volume": 6800.98,
+          "processing": false,
+          "trade": true,
+          "retail": false,
+          "manufacturing": false,
+          "transport": false,
+          "warehousing": false,
+          "services": true
+        },
+        {
+          "id": "AF577ADC641C46C99AA3DFDB3F",
+          "cluster_id": "EBE3510E51B34FC0BB90A70782",
+          "commodity_code": "COFFEE",
+          "prod_area": 2473.37,
+          "prod_volume": 12039.92,
+          "processing": true,
+          "trade": true,
+          "retail": false,
+          "manufacturing": false,
+          "transport": false,
+          "warehousing": true,
+          "services": true
+        }
+      ]
+    },
+    {
+      "id": "58259950D487496B989F7096E7",
+      "sysgen_id": "CL-20250614-CFA3E4",
+      "acronym": "CLUSTER5",
+      "name": "Cluster 5 of B002",
+      "established": "2017-07-16",
+      "region": "R02",
+      "province": "P03",
+      "municipality": "M02",
+      "barangay": "B002",
+      "scale": "small",
+      "datasource": null,
+      "scanned_form": null,
+      "created_by": "5542056C95384A1EA7B74CD321",
+      "updated_by": null,
+      "validated_by": null,
+      "created_at": "2017-10-27T00:00:00",
+      "updated_at": "2017-12-28T00:00:00",
+      "validated_at": null,
+      "audit_trail": [
+        {
+          "event": "validated",
+          "by": "Validator One",
+          "at": "2024-07-03T15:17:25"
+        },
+        {
+          "event": "updated",
+          "by": "Data Entry",
+          "at": "2024-11-05T15:17:25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "25BF01E8A67144F7943C790E25",
+          "cluster_id": "58259950D487496B989F7096E7",
+          "hd_rsbsa": null,
+          "hd_last_name": "Garcia",
+          "hd_first_name": "Maria",
+          "hd_middle_name": null,
+          "hd_extension_name": "Jr.",
+          "hd_designation": "Coordinator",
+          "hd_email": "maria.garcia11@example.com",
+          "hd_telephone": "(42) 8267603",
+          "hd_mobile": "09695988712",
+          "ct_rsbsa": "RSBSA-19974",
+          "ct_last_name": "Dela Cruz",
+          "ct_first_name": "Jose",
+          "ct_middle_name": "S.",
+          "ct_extension_name": "III",
+          "ct_designation": "Secretary",
+          "ct_email": "jose.delacruz39@example.com",
+          "ct_telephone": "(92) 3023377",
+          "ct_mobile": "09351854792"
+        }
+      ],
+      "assets": [
+        {
+          "id": "684293601054435484669A8CB4",
+          "cluster_id": "58259950D487496B989F7096E7",
+          "commodity_code": "HOGS",
+          "prod_area": 187.58,
+          "prod_volume": 18992.82,
+          "processing": false,
+          "trade": true,
+          "retail": false,
+          "manufacturing": true,
+          "transport": false,
+          "warehousing": false,
+          "services": false
+        },
+        {
+          "id": "9D8E41C8E379446488EE87B51B",
+          "cluster_id": "58259950D487496B989F7096E7",
+          "commodity_code": "CACAO",
+          "prod_area": null,
+          "prod_volume": 10537.13,
+          "processing": false,
+          "trade": false,
+          "retail": false,
+          "manufacturing": false,
+          "transport": true,
+          "warehousing": false,
+          "services": true
+        }
+      ]
+    }
+  ]
