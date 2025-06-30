@@ -1,0 +1,224 @@
+{
+    "PSS": [
+      {
+        "intervention": "Seed subsidy to clustered and non-clustered rice areas 1",
+        "pi_1": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_2": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_3": "Seed subsidy to clustered and non-clustered rice areas",
+        "unit": "hectare"
+      },
+      {
+        "intervention": "Seed subsidy to clustered and non-clustered rice areas 2",
+        "pi_1": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_2": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_3": "Seed subsidy to clustered and non-clustered rice areas",
+        "unit": "hectare"
+      },
+      {
+        "intervention": "Seed subsidy to clustered and non-clustered rice areas 3",
+        "pi_1": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_2": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_3": "Seed subsidy to clustered and non-clustered rice areas",
+        "unit": "hectare"
+      },
+      {
+        "intervention": "Seed subsidy to clustered and non-clustered rice areas 4",
+        "pi_1": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_2": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_3": "Seed subsidy to clustered and non-clustered rice areas",
+        "unit": "hectare"
+      },
+      {
+        "intervention": "Seed subsidy to clustered and non-clustered rice areas 5",
+        "pi_1": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_2": "Seed subsidy to clustered and non-clustered rice areas",
+        "pi_3": "Seed subsidy to clustered and non-clustered rice areas",
+        "unit": "hectare"
+      }
+    ],
+    "ESETS": [
+      {
+        "intervention": "AEW capability enhancement trainings 1",
+        "pi_1": "Training conducted",
+        "pi_2": "Other training conducted",
+        "pi_3": "Other training conducted_AEWs",
+        "unit": "number"
+      },
+      {
+        "intervention": "AEW capability enhancement trainings 2",
+        "pi_1": "Training conducted",
+        "pi_2": "Other training conducted",
+        "pi_3": "Other training conducted_AEWs",
+        "unit": "number"
+      },
+      {
+        "intervention": "AEW capability enhancement trainings 3",
+        "pi_1": "Training conducted",
+        "pi_2": "Other training conducted",
+        "pi_3": "Other training conducted_AEWs",
+        "unit": "number"
+      },
+      {
+        "intervention": "AEW capability enhancement trainings 4",
+        "pi_1": "Training conducted",
+        "pi_2": "Other training conducted",
+        "pi_3": "Other training conducted_AEWs",
+        "unit": "number"
+      },
+      {
+        "intervention": "AEW capability enhancement trainings 5",
+        "pi_1": "Training conducted",
+        "pi_2": "Other training conducted",
+        "pi_3": "Other training conducted_AEWs",
+        "unit": "number"
+      }
+    ],
+    "RND": [
+      {
+        "intervention": "Research and development activities conducted 1",
+        "pi_1": "Research and development activities conducted",
+        "pi_2": "Extension-related research activities conducted",
+        "pi_3": "Completed Extension-related R4D activities conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Research and development activities conducted 2",
+        "pi_1": "Research and development activities conducted",
+        "pi_2": "Extension-related research activities conducted",
+        "pi_3": "Completed Extension-related R4D activities conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Research and development activities conducted 3",
+        "pi_1": "Research and development activities conducted",
+        "pi_2": "Extension-related research activities conducted",
+        "pi_3": "Completed Extension-related R4D activities conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Research and development activities conducted 4",
+        "pi_1": "Research and development activities conducted",
+        "pi_2": "Extension-related research activities conducted",
+        "pi_3": "Completed Extension-related R4D activities conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Research and development activities conducted 5",
+        "pi_1": "Research and development activities conducted",
+        "pi_2": "Extension-related research activities conducted",
+        "pi_3": "Completed Extension-related R4D activities conducted",
+        "unit": "number"
+      }
+    ],
+    "AMEFS": [
+      {
+        "intervention": "WD Tractors with accessories 1",
+        "pi_1": "Production machinery and equipment distributed",
+        "pi_2": "Agricultural tractor distributed",
+        "pi_3": "Four-wheel tractor distributed",
+        "unit": "number"
+      },
+      {
+        "intervention": "WD Tractors with accessories 2",
+        "pi_1": "Production machinery and equipment distributed",
+        "pi_2": "Agricultural tractor distributed",
+        "pi_3": "Four-wheel tractor distributed",
+        "unit": "number"
+      },
+      {
+        "intervention": "WD Tractors with accessories 3",
+        "pi_1": "Production machinery and equipment distributed",
+        "pi_2": "Agricultural tractor distributed",
+        "pi_3": "Four-wheel tractor distributed",
+        "unit": "number"
+      },
+      {
+        "intervention": "WD Tractors with accessories 4",
+        "pi_1": "Production machinery and equipment distributed",
+        "pi_2": "Agricultural tractor distributed",
+        "pi_3": "Four-wheel tractor distributed",
+        "unit": "number"
+      },
+      {
+        "intervention": "WD Tractors with accessories 5",
+        "pi_1": "Production machinery and equipment distributed",
+        "pi_2": "Agricultural tractor distributed",
+        "pi_3": "Four-wheel tractor distributed",
+        "unit": "number"
+      }
+    ],
+    "INS": [
+      {
+        "intervention": "SSIP construction - Small Water Impounding Project 1",
+        "pi_1": "Irrigation facility constructed",
+        "pi_2": "Irrigation facility constructed",
+        "pi_3": "Small water impounding project (SWIP) constructed",
+        "unit": "number"
+      },
+      {
+        "intervention": "SSIP construction - Small Water Impounding Project 2",
+        "pi_1": "Irrigation facility constructed",
+        "pi_2": "Irrigation facility constructed",
+        "pi_3": "Small water impounding project (SWIP) constructed",
+        "unit": "number"
+      },
+      {
+        "intervention": "SSIP construction - Small Water Impounding Project 3",
+        "pi_1": "Irrigation facility constructed",
+        "pi_2": "Irrigation facility constructed",
+        "pi_3": "Small water impounding project (SWIP) constructed",
+        "unit": "number"
+      },
+      {
+        "intervention": "SSIP construction - Small Water Impounding Project 4",
+        "pi_1": "Irrigation facility constructed",
+        "pi_2": "Irrigation facility constructed",
+        "pi_3": "Small water impounding project (SWIP) constructed",
+        "unit": "number"
+      },
+      {
+        "intervention": "SSIP construction - Small Water Impounding Project 5",
+        "pi_1": "Irrigation facility constructed",
+        "pi_2": "Irrigation facility constructed",
+        "pi_3": "Small water impounding project (SWIP) constructed",
+        "unit": "number"
+      }
+    ],
+    "FPMA": [
+      {
+        "intervention": "Conduct of Meetings, Conferences,Consultations and Workshops 1",
+        "pi_1": "National\/Regional Field Monitoring conducted",
+        "pi_2": "National\/Regional Field Monitoring conducted",
+        "pi_3": "National\/Regional Field Monitoring conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Conduct of Meetings, Conferences,Consultations and Workshops 2",
+        "pi_1": "National\/Regional Field Monitoring conducted",
+        "pi_2": "National\/Regional Field Monitoring conducted",
+        "pi_3": "National\/Regional Field Monitoring conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Conduct of Meetings, Conferences,Consultations and Workshops 3",
+        "pi_1": "National\/Regional Field Monitoring conducted",
+        "pi_2": "National\/Regional Field Monitoring conducted",
+        "pi_3": "National\/Regional Field Monitoring conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Conduct of Meetings, Conferences,Consultations and Workshops 4",
+        "pi_1": "National\/Regional Field Monitoring conducted",
+        "pi_2": "National\/Regional Field Monitoring conducted",
+        "pi_3": "National\/Regional Field Monitoring conducted",
+        "unit": "number"
+      },
+      {
+        "intervention": "Conduct of Meetings, Conferences,Consultations and Workshops 5",
+        "pi_1": "National\/Regional Field Monitoring conducted",
+        "pi_2": "National\/Regional Field Monitoring conducted",
+        "pi_3": "National\/Regional Field Monitoring conducted",
+        "unit": "number"
+      }
+    ]
+}
